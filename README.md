@@ -1,4 +1,4 @@
-##
+# Neurone_Artificiel
 Ce projet implémente un modèle de neurone artificiel pour la classification binaire en utilisant un ensemble de données synthétiques.
 
 ## 1. Dataset
